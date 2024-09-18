@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="coffee_id_action" type="id" />
+    <item name="action_listFragment_to_detailFragment" type="id" />
+</resources>
